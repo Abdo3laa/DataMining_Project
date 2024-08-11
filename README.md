@@ -21,12 +21,12 @@ Clustering techniques were employed to uncover inherent structures within the da
 - K-Medoids Clustering: Partitioned the dataset into clusters based on dissimilarities, focusing on robustness against outliers.
 - Hierarchical Clustering: Created a hierarchy of clusters, exploring different linkage methods and dendrogram visualizations to interpret cluster relationships.
 ## Insights and Interpretation
-###v The analysis led to several key insights:
+The analysis led to several key insights:
 
 - Cluster Profiles: Identified distinct clusters within the dataset, characterized by unique patterns and behaviors across variables.
 - Segmentation Analysis: Analyzed cluster characteristics to understand customer segments or patterns that could inform targeted strategies.
 ## Recommendations and Next Steps
-### Based on the insights derived from the clustering analysis, the following recommendations were made:
+Based on the insights derived from the clustering analysis, the following recommendations were made:
 
 - Actionable Strategies: Provided recommendations aimed at optimizing business decisions and strategies based on the identified patterns and clusters.
 ## Conclusion
